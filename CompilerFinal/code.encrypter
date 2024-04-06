@@ -1,0 +1,8 @@
+main(){
+int suma =1;
+int i= 0;
+while(i<=8){
+int sum=suma + i;
+i++;
+}
+}
